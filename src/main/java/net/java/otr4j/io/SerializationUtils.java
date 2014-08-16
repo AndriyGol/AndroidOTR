@@ -21,7 +21,7 @@ import java.util.regex.Pattern;
 
 import javax.crypto.interfaces.DHPublicKey;
 
-import org.bouncycastle.util.encoders.Base64;
+import org.spongycastle.util.encoders.Base64;
 
 import net.java.otr4j.io.messages.AbstractEncodedMessage;
 import net.java.otr4j.io.messages.AbstractMessage;
